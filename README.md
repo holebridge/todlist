@@ -1,2 +1,2 @@
-# todlist
-tolist desktop software
+# todolist
+todolist desktop software
